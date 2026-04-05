@@ -47,3 +47,8 @@ Area: 50
 # 📄 License
 
 This project is open source and free to use.
+
+# 🚧 Upcoming Features
+- More geometric shapes
+- Volume calculations
+- Improved terminal UI
