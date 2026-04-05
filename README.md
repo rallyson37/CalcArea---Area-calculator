@@ -37,9 +37,11 @@ Choose a shape:
 Enter your choice: 1
 
 Enter base: 5
+
 Enter height: 10
 
 Perimeter: 30
+
 Area: 50
 
 # 📄 License
