@@ -1,8 +1,8 @@
-CalcArea - Area Calculator
+# CalcArea - Area Calculator
 
 A simple Kotlin console application that calculates the area and perimeter of basic geometric shapes.
 
-📌 Features
+# 📌 Features
 
 - Rectangle:
   - Calculates area and perimeter
@@ -11,23 +11,23 @@ A simple Kotlin console application that calculates the area and perimeter of ba
 - Triangle:
   - Calculates area
 
-🚀 How to Use
+# 🚀 How to Use
 
 1. Compile the project
 2. Run the program
 3. Follow the instructions displayed in the terminal
 
-📥 Input Instructions
+# 📥 Input Instructions
 
 - Rectangle: enter base and height
 - Triangle: enter base and height
 - Circle: enter diameter
 
-🛠️ Technologies
+# 🛠️ Technologies
 
 - Kotlin
 
-💡 Example
+# 💡 Example
 
 Choose a shape:
 1 - Rectangle
@@ -42,6 +42,6 @@ Enter height: 10
 Perimeter: 30
 Area: 50
 
-📄 License
+# 📄 License
 
 This project is open source and free to use.
